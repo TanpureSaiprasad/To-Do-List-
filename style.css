@@ -122,7 +122,9 @@ body {
 .toDoList li {
   position: relative;
   padding: 0.5rem;
+  cursor: pointer;
 }
 .toDoList li:hover {
   text-decoration: line-through wavy #24bffb;
+
 }
